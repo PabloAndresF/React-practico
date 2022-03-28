@@ -1,5 +1,6 @@
 {
   "name": "react-shop",
+  "homepage": "http://PabloAndresF.github.io/React-practico",
   "version": "1.0.0",
   "description": "react eshop",
   "main": "src/index.js",
@@ -9,10 +10,6 @@
     "build": "webpack --mode production",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  },
-  "repository": {
-    "type": "git",
-    "homepage": "https://pabloandresf.github.io/React-practico.github.io/"
   },
   "keywords": [
     "react",
